@@ -143,4 +143,5 @@ contract Auction {
         return (bidders[id].remainingTokens,bidders[id].personId,bidders[id].addr);
     }
 
+>>>>>>> f7b6e21531bce4e84dd19b4958931345959897e4
 }
